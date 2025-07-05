@@ -30,20 +30,6 @@ npm i
 npm run dev
 ```
 
-**Editar un archivo directamente en GitHub**
-
-- Navega a los archivos deseados.
-- Haz clic en el botón "Edit" (icono de lápiz) en la parte superior derecha de la vista del archivo.
-- Realiza tus cambios y confirma los cambios.
-
-**Usar GitHub Codespaces**
-
-- Navega a la página principal de tu repositorio.
-- Haz clic en el botón "Code" (botón verde) cerca de la parte superior derecha.
-- Selecciona la pestaña "Codespaces".
-- Haz clic en "New codespace" para lanzar un nuevo entorno Codespace.
-- Edita archivos directamente dentro del Codespace y confirma y haz push de tus cambios una vez que hayas terminado.
-
 ## ¿Qué tecnologías se utilizan para este proyecto?
 
 Este proyecto está construido con:
@@ -53,7 +39,3 @@ Este proyecto está construido con:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## ¿Cómo puedo desplegar este proyecto?
-
-Puedes desplegar este proyecto usando cualquier servicio de hosting que soporte aplicaciones React, como Netlify, Vercel, o GitHub Pages.
